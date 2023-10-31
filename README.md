@@ -1,11 +1,22 @@
 # HealthCare BigData Analysis Playbook Japan, 1st Edition
 
-こんにちは！『ヘルスケアビックデータ分析の定石』、Kim SunIl、のソースコードです。
+こんにちは！『ヘルスケアビックデータ分析の定石』の著者「金善日(Kim SunIl)」です。
+* [著者のfacebook](https://www.facebook.com/sunil.kim.98)
 
 
-* 著者のfacebook: <https://www.facebook.com/sunil.kim.98>
+<br/>
+
+## 『ヘルスケアビックデータ分析の定石』書籍紹介
+<img src="img/book_cover.jpg" width="160">
+* [Amazonのペーパーバック](https://www.amazon.co.jp/dp/B0CLN3LBVP)
+* [AmazonのKindle](https://www.amazon.co.jp/dp/B0CLTZ5YP2)
+
+<br/>
+<br/>
 
 
+
+以下のは、章別のサンプルコードです。
 ## 章別のIPythonノートブックファイル:
 * [4章:Pythonの基本構文と組み込みデータ型](https://github.com/suninno/healthcare_bigdata_playbook_jp/tree/main/ch04)
 * [5章 NumPyの基礎と活用](https://github.com/suninno/healthcare_bigdata_playbook_jp/tree/main/ch05)
