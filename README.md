@@ -9,8 +9,10 @@
 ## 『ヘルスケアビックデータ分析の定石』書籍紹介
 <img src="img/book_cover.jpg" width="160">
 
+
 * [Amazonのペーパーバック](https://www.amazon.co.jp/dp/B0CLN3LBVP)
 * [AmazonのKindle](https://www.amazon.co.jp/dp/B0CLTZ5YP2)
+
 
 <br/>
 <br/>
