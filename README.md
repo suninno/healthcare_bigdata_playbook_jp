@@ -15,5 +15,5 @@
 * [9章 事例#1：データの可視化](https://github.com/suninno/healthcare_bigdata_playbook_jp/tree/main/ch09)
 * [10章 事例#2：時系列データの扱い](https://github.com/suninno/healthcare_bigdata_playbook_jp/tree/main/ch10)
 * [11章 事例#3：積み上げ棒グラフと回帰分析の実践](https://github.com/suninno/healthcare_bigdata_playbook_jp/tree/main/ch11)
-* [12章 事例#4：自動化とウェブダッシュボードの作成](https://github.com/suninno/healthcare_bigdata_playbook_jp/tree/main/ch12)
+* [12章 自動化とウェブダッシュボードの作成](https://github.com/suninno/healthcare_bigdata_playbook_jp/tree/main/ch12)
 
